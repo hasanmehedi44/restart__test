@@ -1,3 +1,11 @@
 h1 {
     color: navy;
 }
+
+h1 {
+    background-color: olive;
+}
+
+img {
+    width: 100%;
+}
